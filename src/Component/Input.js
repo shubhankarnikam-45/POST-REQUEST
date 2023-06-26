@@ -14,7 +14,7 @@ const Input = () => {
             alert("sucessful")
         })
             .catch((err) => {
-                alert("error")
+                alert("error");
             })
 
     }

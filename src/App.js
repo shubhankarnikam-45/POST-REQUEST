@@ -1,10 +1,10 @@
 import React from 'react'
-import Input from './Component/Input'
+import TrafficLigh from './Component/TrafficLight'
 
 const App = () => {
   return (
     <div>
-      <Input />
+      <TrafficLigh />
     </div>
   )
 }
